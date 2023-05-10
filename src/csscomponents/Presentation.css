@@ -1,0 +1,142 @@
+
+/*Luis Chavez Delgado*/
+
+.backgroundwebpage{
+    width: 100%;
+    min-height: 100vh;
+    padding: 0 20px;
+    background-color: #282828;
+    display: flex;
+  }
+
+.presentationwebpage{
+    margin: auto;
+    padding: auto;
+    background-color: white;
+  }
+
+  .container1{
+    margin: 1px;
+    padding: 1px;
+  }
+
+  .text1{
+    width: 350px;
+    margin: 20px;
+    padding: 30px;
+    height: 130px;
+    color: purple;
+    
+  }
+
+  .container2{
+    margin: 100px;
+    height: 100px;
+    width: 400px;
+    background-color: azure;
+  }
+
+  .text2{
+    margin: 20px;
+    padding: 30px;
+    width: 480px;
+    height: 100px;
+    color: darkgray;
+  }
+
+
+  .containerperson1{
+    margin: 40px;
+    padding: 20px;
+    width: 300px;
+    height: 300px; 
+    background-color: purple;
+  }
+
+  .text3{
+    color: white;
+  }
+
+  .containerperson2{
+    margin: 40px;
+    padding: 20px;
+    width: 300px;
+    height: 300px;  
+    background-color: purple;
+  }
+
+  .text4{
+    color: white;
+  }
+
+  .containerperson3{
+    margin: 500px;
+    padding: 20px;
+    width: 300px;
+    height: 300px;  
+    background-color: purple;
+  }
+
+  .information1{
+    color: white;
+  }
+
+  .information2{
+    color: rosybrown;
+  }
+
+  
+
+  .information3{
+    color: white;
+  }
+
+  .information4{
+    color: rosybrown;
+  }
+
+ 
+  .information5{
+    color: white;
+  }
+
+  .information6{
+    color: rosybrown;
+  }
+
+
+  .squarestar1{
+   margin: 20px;
+   padding: 0px;
+   max-width: 100px;
+   background-color: gainsboro;
+  }
+
+  .squarestar2{
+   
+    margin: 50px;
+    padding: 0px;
+    background-color: gainsboro;
+  }
+  
+  .squarestar3{
+   
+    margin: 80px;
+    padding: 0px;
+    background-color: gainsboro;
+  }
+
+  
+
+.btnatras{
+    background: #0039a6;
+    background-color: #0039a6;
+    color: white;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    border: none;
+  }
